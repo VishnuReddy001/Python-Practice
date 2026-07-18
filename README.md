@@ -1,5 +1,9 @@
+Practiceing README.md 
+
+TEST:
 Creating and leaning the python modules and module wise.
-Data Structures
-Data Types
-Aggrigations
-Loops and if conditions
+
+1. Data Structures
+2. Data Types
+3. Aggrigations
+4. Loops and if conditions
